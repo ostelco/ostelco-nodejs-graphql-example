@@ -3,6 +3,8 @@
 Starting point https://www.apollographql.com/docs/apollo-server/v1/example/
 
 ## Run server
+node version `v10.15.3`
+
 1. install server dependencies `npm install`
 2. run server locally `node index.js`
 
